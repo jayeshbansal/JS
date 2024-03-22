@@ -1,6 +1,7 @@
 let score = 12
 
-// Values
+
+/* Values */
 
 // null > 0
 // undefined > NaN
@@ -9,7 +10,7 @@ let score = 12
 //"" > 0 //empty string, boolean output
 // Anyword > NaN
 
-//To check data type
+/* To check data type */
 
 //way 1 
 console.log(typeof score);
@@ -19,7 +20,7 @@ console.log(typeof score);
 console.log(typeof(score));
 
 
-// Datatype Conversion
+/* Datatype Conversion */
 
 // Number(Variable_name)
 // String(Varibale_name)
